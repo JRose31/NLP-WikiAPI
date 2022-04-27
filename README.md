@@ -1,5 +1,5 @@
 # Predicting Like-Celebrities *(Wiki API Dataset)*
-## Natural Language Processing, Supervised Classification Model
+## Natural Language Processing, Unupervised Classification Model
 
 ---
 
